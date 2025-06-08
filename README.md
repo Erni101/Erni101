@@ -42,11 +42,15 @@
 
 <h2 align="center">🧭 Mi recorrido</h2>
 
-<details>
-  <summary><b>✨ Click para ver el timeline</b></summary>
+## 🕒 Mi evolución profesional
 
-  - 🎓 **Técnico de Laboratorio Clínico y Biomédico** (Cruz Roja) ⛑️ 
-  - 📊 **Iniciación al Data Science** (2023)  
-  - 💻 **HackUDC** (2025)  
-  
+<details open>
+<summary><strong>📈 Haz clic para ver el timeline completo</strong></summary>
+
+| Año      | Hito                                                         | Detalles / Tecnologías clave             |
+|----------|--------------------------------------------------------------|------------------------------------------|
+| ⛑️ 2019–2021 | 🎓 Técnico de Laboratorio Clínico y Biomédico (Cruz Roja)     | Bioquímica, análisis instrumental, salud |
+| 📊 2023     | Iniciación al Data Science                                 | `Python`, `Pandas`, `Jupyter`, `Kaggle`  |
+| 💻 2025     | Participación en HackUDC                                    | `Flutter`, `SQL`, `GitHub`, `EDA`        |
+
 </details>
