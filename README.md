@@ -1,10 +1,14 @@
-# 👋 ¡Hola! Soy Ernesto
+<div align="center">
 
-- 🎯 Apasionado por el Data Science.
-- 🧬 Técnico de Laboratorio Clinico y Biomedico
-- 🚀 Actualmente trabajando en mejorar mis conocimientos técnicos.
+<h1>👋 ¡Hola! Soy Ernesto</h1>
 
+<p>🎯 Apasionado por el Data Science.</p>
+<p>🧬 Técnico de Laboratorio Clínico y Biomédico</p>
+<p>🚀 Actualmente trabajando en mejorar mis conocimientos técnicos.</p>
 
+</div>
+
+</div>
 <h2 align="center">🛠️ Tecnologías y herramientas</h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank" title="Python">
@@ -34,6 +38,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Erni101&style=flat-square&color=blue" alt="visitas" />
+  
 </p>
 
 <h2 align="center">🌱 Actividad reciente</h2>
