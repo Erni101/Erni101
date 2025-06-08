@@ -20,6 +20,9 @@
   <a href="https://git-scm.com/" target="_blank" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   </a>
+  <a href="https://www.oracle.com/database/" target="_blank" title="Oracle SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
+  </a>
 </p>
 
 ---
@@ -33,3 +36,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Erni101&style=flat-square&color=blue" alt="visitas" />
 </p>
+<h2 align="center">🌱 Actividad reciente</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erni101&theme=github_dark" />
+</p>
+
+<h2 align="center">🧭 Mi recorrido</h2>
+
+<details>
+  <summary><b>✨ Click para ver el timeline</b></summary>
+
+  - 🎓 **Grado en Bioquímica y análisis clínico** (Universidad X)  
+  - 📊 **Iniciación al Data Science** (2023)  
+  - 💻 **HackUDC** (2025)  
+  
+</details>
