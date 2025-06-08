@@ -40,9 +40,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erni101&theme=github_dark" />
 </p>
 
-<h2 align="center">🧭 Mi recorrido</h2>
-
-## 🕒 Mi evolución profesional
+<h2 align="center">🕒 Mi evolución profesional</h2>
 
 <details open>
 <summary><strong>📈 Haz clic para ver el timeline completo</strong></summary>
