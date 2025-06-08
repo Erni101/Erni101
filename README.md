@@ -47,7 +47,7 @@
 
 | Año      | Hito                                                         | Detalles / Tecnologías clave             |
 |----------|--------------------------------------------------------------|------------------------------------------|
-| ⛑️ 2019–2021 | 🎓 Técnico de Laboratorio Clínico y Biomédico (Cruz Roja)     | Bioquímica, análisis instrumental, salud |
+| ⛑️ 2020–2022 | 🎓 Técnico de Laboratorio Clínico y Biomédico (Cruz Roja)     | Bioquímica, análisis instrumental, salud |
 | 📊 2023     | Iniciación al Data Science                                 | `Python`, `Pandas`, `Jupyter`, `Kaggle`  |
 | 💻 2025     | Participación en HackUDC                                    | `Flutter`, `SQL`, `GitHub`, `EDA`        |
 
