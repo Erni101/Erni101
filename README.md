@@ -35,20 +35,51 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Erni101&style=flat-square&color=blue" alt="visitas" />
 </p>
+
 <h2 align="center">🌱 Actividad reciente</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erni101&theme=github_dark" />
 </p>
 
+<h2 align="center">🌐 Social Media</h2>
+<p align="center">
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/ernesto-jose-gramcko-villares-79b3a1329/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:32px; height:32px;">
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/Erni101" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="width:32px; height:32px;">
+  </a>
+</p>
+
 <h2 align="center">🕒 Mi evolución profesional</h2>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Año</th>
+      <th>Hito</th>
+      <th>Detalles / Tecnologías clave</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⛑️ 2020–2022</td>
+      <td>🎓 Técnico de Laboratorio Clínico y Biomédico (Cruz Roja)</td>
+      <td>Bioquímica, análisis instrumental, salud</td>
+    </tr>
+    <tr>
+      <td>📊 2023</td>
+      <td>Iniciación al Data Science</td>
+      <td><code>Python</code>, <code>Pandas</code>, <code>Jupyter</code>, <code>Kaggle</code></td>
+    </tr>
+    <tr>
+      <td>💻 2025</td>
+      <td>Participación en HackUDC</td>
+      <td><code>Flutter</code>, <code>SQL</code>, <code>GitHub</code>, <code>EDA</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<details open>
-<summary><strong>📈 Haz clic para ver el timeline completo</strong></summary>
-
-| Año      | Hito                                                         | Detalles / Tecnologías clave             |
-|----------|--------------------------------------------------------------|------------------------------------------|
-| ⛑️ 2020–2022 | 🎓 Técnico de Laboratorio Clínico y Biomédico (Cruz Roja)     | Bioquímica, análisis instrumental, salud |
-| 📊 2023     | Iniciación al Data Science                                 | `Python`, `Pandas`, `Jupyter`, `Kaggle`  |
-| 💻 2025     | Participación en HackUDC                                    | `Flutter`, `SQL`, `GitHub`, `EDA`        |
-
-</details>
+</div>
