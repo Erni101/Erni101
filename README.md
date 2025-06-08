@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Ernesto
 
 - 🎯 Apasionado por el Data Science.
-- 🧰 Tecnologías: Python, R, SQL .
 - 🧬 Técnico de Laboratorio Clinico y Biomedico
 - 🚀 Actualmente trabajando en mejorar mis conocimientos técnicos.
 
@@ -46,7 +45,7 @@
 <details>
   <summary><b>✨ Click para ver el timeline</b></summary>
 
-  - 🎓 **Grado en Bioquímica y análisis clínico** (Universidad X)  
+  - 🎓 **Técnico de Laboratorio Clínico y Biomédico** (Cruz Roja) ⛑️ 
   - 📊 **Iniciación al Data Science** (2023)  
   - 💻 **HackUDC** (2025)  
   
