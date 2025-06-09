@@ -33,7 +33,7 @@
 <h2 align="center">📊 Stats y actividad</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erni101&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erni101&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erni101&layout=compact&theme=radical&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
